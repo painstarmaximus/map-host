@@ -8,17 +8,17 @@ function initMap() {
     {
       name: "Barcelona",
       position: { lat: 41.3851, lng: 2.1734 },
-      url: "https://cromwellmdicouk.sharepoint.com/sites/SynergyAssociates"
+      url: "https://hscaledc.sharepoint.com/"
     },
     {
       name: "London",
       position: { lat: 51.5074, lng: -0.1278 },
-      url: "https://news.bbc.co.uk"
+      url: "https://hscaledc.sharepoint.com/"
     },
     {
       name: "Oslo",
       position: { lat: 59.9139, lng: 10.7522 },
-      url: "https://en.wikipedia.org/wiki/Oslo"
+      url: "https://hscaledc.sharepoint.com/"
     }
   ];
 
@@ -34,3 +34,4 @@ function initMap() {
     });
   });
 }
+
